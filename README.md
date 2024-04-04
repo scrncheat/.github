@@ -1,2 +1,2 @@
-# .github
-Scrncheat Description
+# Scrncheat Media
+This is Scrncheat's Github. Hello!
